@@ -9,3 +9,4 @@ Gesture controller patch update 8 - 11/06/2026 16:39:02
 Gesture controller patch update 9 - 11/06/2026 16:39:14
 Gesture controller patch update 10 - 11/06/2026 16:39:23
 Gesture controller patch update 11 - 11/06/2026 16:39:31
+Gesture controller patch update 105 - 11/06/2026 16:39:36
